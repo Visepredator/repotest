@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68c12834-0d3f-49f5-abef-6631372f9873" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-qa/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-sms/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-recruit/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-spit/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-base/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-rabbitmq/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-article/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-common/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-gathering/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-web/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-friend/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-user/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-manager/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-search/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare-config/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare-web/src/main/java/com/tensquare/web/WebApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensquare-rabbitmq/src/main/java/com/tensquare/rabbit/RabbitApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare-recruit/src/main/java/com/tensquare/recruit/RecruitApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare-search/src/main/java/com/tensquare/search/SearchApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare-sms/src/main/java/com/tensquare/sms/SmsApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare-spit/src/main/java/com/tensquare/spit/SpitApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare-user/src/main/java/com/tensquare/user/UserApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare-gathering/src/main/java/com/tensquare/gathering/GatheringApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare-manager/src/main/java/com/temsquare/manager/ManagerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare-qa/src/main/java/com/tensquare/qa/QaApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>util</find>
+      <find>JwtUtil</find>
+      <find>idWorker</find>
+      <find>52</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tensquare-web/src/main/java/com/tensquare/web/WebApplication.java" />
+        <option value="$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/FriendApplication.java" />
+        <option value="$PROJECT_DIR$/tensquare-base/src/main/java/com/tensquare/base/controller/BaseExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/tensquare-manager/src/main/java/com/temsquare/manager/filter/ManagerFilter.java" />
+        <option value="$PROJECT_DIR$/tensquare-base/src/main/java/com/tensquare/base/BaseApplication.java" />
+        <option value="$PROJECT_DIR$/tensquare-manager/src/main/java/com/temsquare/manager/ManagerApplication.java" />
+        <option value="$PROJECT_DIR$/tensquare-qa/src/main/java/com/tensquare/qa/client/impl/BaseClientImpl.java" />
+        <option value="$PROJECT_DIR$/tensquare-common/src/main/java/entity/Result.java" />
+        <option value="$PROJECT_DIR$/tensquare-search/src/main/java/com/tensquare/search/dao/ArticleDao.java" />
+        <option value="$PROJECT_DIR$/tensquare-qa/src/main/java/com/tensquare/qa/client/BaseClient.java" />
+        <option value="$PROJECT_DIR$/tensquare-qa/src/main/java/com/tensquare/qa/config/InterceptorConfig.java" />
+        <option value="$PROJECT_DIR$/tensquare-qa/src/main/java/com/tensquare/qa/interceptor/JwtInterceptor.java" />
+        <option value="$PROJECT_DIR$/tensquare-base/src/main/java/com/tensquare/base/pojo/Label.java" />
+        <option value="$PROJECT_DIR$/tensquare-base/src/main/java/com/tensquare/base/controller/LabelController.java" />
+        <option value="$PROJECT_DIR$/tensquare-search/src/main/java/com/tensquare/search/service/ArticleService.java" />
+        <option value="$PROJECT_DIR$/tensquare-base/src/main/java/com/tensquare/base/service/LabelService.java" />
+        <option value="$PROJECT_DIR$/tensquare-config/src/main/java/com/tensquare/config/ConfigApplication.java" />
+        <option value="$PROJECT_DIR$/tensquare-common/src/main/java/entity/PageResult.java" />
+        <option value="$PROJECT_DIR$/tensquare-common/src/main/java/entity/StatusCode.java" />
+        <option value="$PROJECT_DIR$/tensquare-search/src/main/java/com/tensquare/search/SearchApplication.java" />
+        <option value="$PROJECT_DIR$/tensquare-sms/src/main/java/com/tensquare/sms/listener/SmsListener.java" />
+        <option value="$PROJECT_DIR$/tensquare-spit/src/main/java/com/tensquare/spit/pojo/Spit.java" />
+        <option value="$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/pojo/Friend.java" />
+        <option value="$PROJECT_DIR$/tensquare-eureka/src/main/java/com/tensquare/eureka/EurekaServer.java" />
+        <option value="$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/dao/FriendDao.java" />
+        <option value="$PROJECT_DIR$/tensquare-sms/src/main/java/com/tensquare/sms/SmsApplication.java" />
+        <option value="$PROJECT_DIR$/tensquare-spit/src/main/java/com/tensquare/spit/dao/SpitDao.java" />
+        <option value="$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/dao/NoFriendDao.java" />
+        <option value="$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/pojo/NoFriend.java" />
+        <option value="$PROJECT_DIR$/tensquare-spit/src/main/java/com/tensquare/spit/service/SpitService.java" />
+        <option value="$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/client/UserClient.java" />
+        <option value="$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/config/InterceptorConfig.java" />
+        <option value="$PROJECT_DIR$/tensquare-spit/src/main/java/com/tensquare/spit/controller/SpitController.java" />
+        <option value="$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/interceptor/JwtInterceptor.java" />
+        <option value="$PROJECT_DIR$/tensquare-spit/src/main/java/com/tensquare/spit/SpitApplication.java" />
+        <option value="$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/controller/FriendController.java" />
+        <option value="$PROJECT_DIR$/tensquare-user/src/main/java/com/tensquare/user/config/InterceptorConfig.java" />
+        <option value="$PROJECT_DIR$/tensquare-user/src/main/java/com/tensquare/user/interceptor/JwtInterceptor.java" />
+        <option value="$PROJECT_DIR$/tensquare-web/src/main/java/com/tensquare/web/filter/WebFilter.java" />
+        <option value="$PROJECT_DIR$/tensquare-gathering/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare-recruit/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare-search/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare-spit/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare-user/src/main/java/com/tensquare/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/tensquare-user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare-article/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare-base/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare-qa/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare-rabbitmq/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare-friend/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare-sms/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/home/web/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="/home/web/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="97" />
+    <option name="y" value="88" />
+    <option name="width" value="1779" />
+    <option name="height" value="821" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-article" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-article" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-article" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-article" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-article" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="article" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-friend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-friend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-friend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-friend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-friend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="friend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-gathering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-gathering" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-gathering" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-gathering" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-gathering" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gathering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-qa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-qa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-qa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-qa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-qa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-recruit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-recruit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-recruit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-recruit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-recruit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="recruit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-sms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-spit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-spit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-spit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-spit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-spit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquareparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tensquare-common/src/test/java" />
+      <recent name="$PROJECT_DIR$/tensquare-common/src/main/java" />
+      <recent name="$PROJECT_DIR$/tensquare-web/src/main/java" />
+      <recent name="$PROJECT_DIR$/tensquare-web/src/main/resources" />
+      <recent name="$PROJECT_DIR$/tensquare-user/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebApplication">
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tensquare-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.config.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.search.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.sms.SmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare-spit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.spit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.spit.SpitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.web.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WebApplication" />
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.SpitApplication" />
+        <item itemvalue="Spring Boot.SmsApplication" />
+        <item itemvalue="Spring Boot.SearchApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68c12834-0d3f-49f5-abef-6631372f9873" name="Default Changelist" comment="" />
+      <created>1555767264294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555767264294</updated>
+      <workItem from="1555767269875" duration="2101000" />
+      <workItem from="1555770427627" duration="690000" />
+      <workItem from="1555814347026" duration="913000" />
+      <workItem from="1555815280895" duration="868000" />
+      <workItem from="1555816168073" duration="5931000" />
+      <workItem from="1556444786812" duration="27000" />
+      <workItem from="1556949380170" duration="3097000" />
+      <workItem from="1556953476731" duration="19000" />
+      <workItem from="1557653402928" duration="3491000" />
+      <workItem from="1557746208279" duration="4518000" />
+      <workItem from="1557830089396" duration="1362000" />
+      <workItem from="1557894310533" duration="6000" />
+      <workItem from="1557905118289" duration="2573000" />
+      <workItem from="1557998596841" duration="4000" />
+      <workItem from="1558001849798" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25615000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1922" height="1031" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32334048" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Learn" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.368" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49971315" weight="0.32937685" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5002869" side_tool="true" weight="0.328" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="15" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="16" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="17" />
+      <window_info anchor="bottom" id="Tail" order="18" />
+      <window_info anchor="bottom" id="Messages" order="19" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32948643" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="RestServices" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tensquare-spit/src/main/java/com/tensquare/spit/pojo/Spit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/pojo/Friend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/dao/FriendDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-spit/src/main/java/com/tensquare/spit/dao/SpitDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/dao/NoFriendDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/pojo/NoFriend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/client/UserClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/config/InterceptorConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-spit/src/main/java/com/tensquare/spit/controller/SpitController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/interceptor/JwtInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-user/src/main/java/com/tensquare/user/config/InterceptorConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-spit/src/main/java/com/tensquare/spit/service/SpitService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-web/src/main/java/com/tensquare/web/filter/WebFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-user/src/main/java/com/tensquare/user/interceptor/JwtInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/controller/FriendController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-common/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.6707.61.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-user/src/main/java/com/tensquare/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-article/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-base/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-config/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-manager/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-qa/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-recruit/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-search/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-spit/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-friend/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-gathering/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-rabbitmq/src/main/java/com/tensquare/rabbit/customer/Customer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-rabbitmq/src/main/java/com/tensquare/rabbit/customer/Customer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-rabbitmq/src/main/java/com/tensquare/rabbit/customer/Customer3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-rabbitmq/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-sms/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-eureka/src/main/java/com/tensquare/eureka/EurekaServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-article/src/main/java/com/tensquare/article/ArticleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-base/src/main/java/com/tensquare/base/BaseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-config/src/main/java/com/tensquare/config/ConfigApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-friend/src/main/java/com/tensquare/friend/FriendApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-web/src/main/java/com/tensquare/web/WebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-recruit/src/main/java/com/tensquare/recruit/RecruitApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-search/src/main/java/com/tensquare/search/SearchApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-sms/src/main/java/com/tensquare/sms/SmsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-spit/src/main/java/com/tensquare/spit/SpitApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-user/src/main/java/com/tensquare/user/UserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-gathering/src/main/java/com/tensquare/gathering/GatheringApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-manager/src/main/java/com/temsquare/manager/ManagerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-qa/src/main/java/com/tensquare/qa/QaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare-rabbitmq/src/main/java/com/tensquare/rabbit/RabbitApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|tensquare-recruit</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

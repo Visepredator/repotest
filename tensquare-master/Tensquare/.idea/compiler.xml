@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="1024" />
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tensquare-recruit" />
+        <module name="tensquare-config" />
+        <module name="tensquaresms" />
+        <module name="tensquaremanager" />
+        <module name="tensquare-manager" />
+        <module name="tensquarefriend" />
+        <module name="tensquare-qa" />
+        <module name="tensquare-base" />
+        <module name="tensquarebase" />
+        <module name="tensquarearticle" />
+        <module name="tensquarerecruit" />
+        <module name="tensquarecommon" />
+        <module name="tensquareqa" />
+        <module name="tensquare-article" />
+        <module name="tensquareeureka" />
+        <module name="tensquare-friend" />
+        <module name="tensquarerabbitmq" />
+        <module name="tensquare-web" />
+        <module name="tensquare-gathering" />
+        <module name="tensquare-eureka" />
+        <module name="tensquare-rabbitmq" />
+        <module name="tensquare-search" />
+        <module name="tensquare-user" />
+        <module name="tensquareuser" />
+        <module name="tensquareweb" />
+        <module name="tensquaregathering" />
+        <module name="tensquare-spit" />
+        <module name="tensquarespit" />
+        <module name="tensquareconfig" />
+        <module name="tensquaresearch" />
+        <module name="tensquare-sms" />
+        <module name="tensquare-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tensquare-article" options="-parameters" />
+      <module name="tensquare-base" options="-parameters" />
+      <module name="tensquare-common" options="-parameters" />
+      <module name="tensquare-config" options="-parameters" />
+      <module name="tensquare-eureka" options="-parameters" />
+      <module name="tensquare-friend" options="-parameters" />
+      <module name="tensquare-gathering" options="-parameters" />
+      <module name="tensquare-manager" options="-parameters" />
+      <module name="tensquare-qa" options="-parameters" />
+      <module name="tensquare-rabbitmq" options="-parameters" />
+      <module name="tensquare-recruit" options="-parameters" />
+      <module name="tensquare-search" options="-parameters" />
+      <module name="tensquare-sms" options="-parameters" />
+      <module name="tensquare-spit" options="-parameters" />
+      <module name="tensquare-user" options="-parameters" />
+      <module name="tensquare-web" options="-parameters" />
+      <module name="tensquarearticle" options="-parameters" />
+      <module name="tensquarebase" options="-parameters" />
+      <module name="tensquarecommon" options="-parameters" />
+      <module name="tensquareconfig" options="-parameters" />
+      <module name="tensquareeureka" options="-parameters" />
+      <module name="tensquarefriend" options="-parameters" />
+      <module name="tensquaregathering" options="-parameters" />
+      <module name="tensquaremanager" options="-parameters" />
+      <module name="tensquareqa" options="-parameters" />
+      <module name="tensquarerabbitmq" options="-parameters" />
+      <module name="tensquarerecruit" options="-parameters" />
+      <module name="tensquaresearch" options="-parameters" />
+      <module name="tensquaresms" options="-parameters" />
+      <module name="tensquarespit" options="-parameters" />
+      <module name="tensquareuser" options="-parameters" />
+      <module name="tensquareweb" options="-parameters" />
+    </option>
+  </component>
+</project>
